@@ -4,6 +4,5 @@
   <groupId>com.github.SomaPrasanna4037</groupId>
   <artifactId>android</artifactId>
   <version>1.0</version>
-  <packaging>aar</packaging>
   <description>My Android Library</description>
 </project>
