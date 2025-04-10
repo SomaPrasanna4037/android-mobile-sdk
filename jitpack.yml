@@ -1,0 +1,5 @@
+jdk:
+  - openjdk17  # Use the JDK version compatible with your project
+install:
+  - FILE="-Dfile=android_release.aar"  # Replace with your AAR filename
+  - mvn install:install-file $FILE -DgroupId=com.github.SomaPrasanna4037 -DartifactId=android -Dversion=1.0 -Dpackaging=aar -DgeneratePom=true
