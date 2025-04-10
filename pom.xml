@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.SomaPrasanna4037</groupId>
-  <artifactId>android</artifactId>
+  <artifactId>android_library</artifactId>
   <version>1.0</version>
   <description>My Android Library</description>
 </project>
